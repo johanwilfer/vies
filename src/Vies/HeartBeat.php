@@ -19,7 +19,7 @@ use DomainException;
 /**
  * Class HeartBeat
  *
- * This class provides a simple but essential heartbeat cheack
+ * This class provides a simple but essential heartbeat check
  * on the VIES service as it's known to have availability issues.
  *
  * @category DragonBe
